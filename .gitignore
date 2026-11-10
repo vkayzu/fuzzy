@@ -1,0 +1,12 @@
+# file R
+*.R
+*.r
+.Rhistory
+.RData
+
+# hasil compile C++ (executable)
+AI/Fuzzy
+AI/mamdani
+AI/sugeno
+*.exe
+*.o
