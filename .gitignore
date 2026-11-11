@@ -8,5 +8,6 @@
 AI/Fuzzy
 AI/mamdani
 AI/sugeno
+AI/mamdani_3input
 *.exe
 *.o
